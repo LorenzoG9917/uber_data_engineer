@@ -1,0 +1,27 @@
+# Instalar python y pip en la maquina virtual
+sudo apt-get install update
+
+sudo apt-get install python3-distutils
+
+sudo apt-get install python3-apt
+
+sudo apt-get install wget
+
+wget https://bootstrap.pypa.io/get-pip.py
+
+sudo python3 get-pip.py
+
+
+# Instalar Mage
+sudo pip3 install mage-ai
+
+# Comenzar proyecto en Mage
+mage start uber_data_project
+
+# Instalar pandas
+sudo pip3 install pandas
+
+# Instalar Google Cloud Library
+sudo pip3 install google-cloud
+
+sudo pip3 install google-cloud-bigquery
