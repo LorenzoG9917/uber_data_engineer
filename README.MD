@@ -8,8 +8,7 @@ Este repositorio tiene como objetivo emular un proyecto "end to end" similar a l
 A lo largo del proyecto, comenzaremos con un archivo CSV, crearemos un diseño lógico, transformaremos el conjunto de datos, utilizaremos GCP y Mage para la creación de un pipeline ETL (Extract, Transform, Load), emplearemos BigQuery y, finalmente, crearemos un dashboard con Looker Studio. Este repositorio servirá como guía y ejemplo para comprender cómo se llevan a cabo proyectos similares en un entorno laboral real.
 
 ## Arquitectura 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9d483afa-835f-446b-9ae5-b5b00a794a84/Untitled.png)
-
+![Arquitectura](https://github.com/LorenzoG9917/uber_data_engineer/assets/121797266/e5f1c003-b440-4fb8-bd34-0c2a1589507b)
 ## Tecnologías usadas
 - Lenguaje de Programación: Python (Librería pandas)
 
@@ -18,7 +17,7 @@ A lo largo del proyecto, comenzaremos con un archivo CSV, crearemos un diseño l
 - Compute Instance: Instancia de cómputo para ejecución de tareas en GCP.
 - BigQuery: Base de datos empresarial de Google.
 - Looker Studio: Herramienta de creación de dashboards
-- Herramienta Moderna de pipeline de Datos: Mage Data Pipeline Tool
+- Herramienta Moderna de pipeline de Datos: [Mage Data Pipeline Tool] (https://www.mage.ai/)
 
 ## Conjunto de Datos Utilizado
 
