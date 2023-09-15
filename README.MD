@@ -29,7 +29,7 @@ Se utilizó el conjunto de datos "TLC Trip Record Data" del año 2016 que incluy
 2. Importación y Transformación de Datos: Los datos se importaron en un Jupyter notebook para transformarlos. Se crearon claves primarias (PK) y claves foráneas (FK) según lo definido en el ERD. Finalmente se creo una especie de tablón el cual contiene los joins entre la fact table y las dimensions tables del modelo.
 3. Almacenamiento en GCP: Se utilizó Google Cloud Platform para almacenar los datos en un "bucket" único de almacenamiento en la nube.
 4. Implementación de Mage: Se configuró una instancia virtual en Compute Engine y se instaló Mage en ella. Se establecieron las conexiones necesarias.
-5. Creación de la Canalización ETL: Se utilizó Mage para crear una canalización ETL utilizando el bloque Dataloader para extraer el conjunto de datos y se aplicaron transformaciones realizadas previamente en el paso 2.
+5. Creación de la Canalización ETL: Se utilizó Mage para crear el pipeline ETL utilizando el bloque Dataloader para extraer el conjunto de datos del bucket y el bloque transformer para las  transformaciones realizadas previamente en el paso 2.
 6. Exportación de Datos a BigQuery: Los datos se exportaron a BigQuery utilizando un bucle for y se configuraron las credenciales para conectarse a los servidores de Google.
 7. Creación de dashboard en Looker Studio: Se utilizó Looker Studio para crear un dashboard que incluye filtros, resúmenes y gráficos interactivos.
 8. Compartiendo el dashboard: El [dashboard](https://lookerstudio.google.com/reporting/f8f88d7e-c1f1-4ee4-8dfe-4620bf961b93/page/DlVaD) se compartió a través de Looker Studio.
