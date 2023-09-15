@@ -32,7 +32,7 @@ Se utilizó el conjunto de datos "TLC Trip Record Data" del año 2016 que incluy
 5. Creación de la Canalización ETL: Se utilizó Mage para crear una canalización ETL utilizando el bloque Dataloader para extraer el conjunto de datos y se aplicaron transformaciones realizadas previamente en el paso 2.
 6. Exportación de Datos a BigQuery: Los datos se exportaron a BigQuery utilizando un bucle for y se configuraron las credenciales para conectarse a los servidores de Google.
 7. Creación de dashboard en Looker Studio: Se utilizó Looker Studio para crear un dashboard que incluye filtros, resúmenes y gráficos interactivos.
-8. Compartiendo el Panel de Control: El panel de control se compartió a través de Looker Studio.
+8. Compartiendo el Panel de Control: El [dashboard] (https://lookerstudio.google.com/reporting/f8f88d7e-c1f1-4ee4-8dfe-4620bf961b93/page/DlVaD) se compartió a través de Looker Studio.
 
 
 ## Agradecimientos
