@@ -34,12 +34,6 @@ Se utilizó el conjunto de datos "TLC Trip Record Data" del año 2016 que incluy
 7. Creación de dashboard en Looker Studio: Se utilizó Looker Studio para crear un dashboard que incluye filtros, resúmenes y gráficos interactivos.
 8. Compartiendo el dashboard: El [dashboard](https://lookerstudio.google.com/reporting/f8f88d7e-c1f1-4ee4-8dfe-4620bf961b93/page/DlVaD) se compartió a través de Looker Studio.
 
-
-## Agradecimientos
-
-- Agradecimientos especiales a [Darshil Parmar](https://www.linkedin.com/in/darshil-parmar/) por la creación de este proyecto con fines educativos.
-- Este proyecto se basa en un repositorio en inglés creado por [Mudasir Wazir](https://www.linkedin.com/in/mudasir-wazir/).
-
 ## Autor
 
-Este repositorio ha sido personalizado y adaptado por [Lorenzo Guerrero](https://www.linkedin.com/feed/) con fines educativos.
+Este repositorio ha sido personalizado y adaptado por [Lorenzo Guerrero](https://www.linkedin.com/feed/).
